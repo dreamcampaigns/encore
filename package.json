@@ -1,0 +1,23 @@
+{
+  "name": "dream_campaigns_encore",
+  "version": "2.6.0",
+  "description": "Dream Campaigns Encore",
+  "main": "dist/encore.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamcampaigns/encore.git"
+  },
+  "keywords": [
+    "encore",
+    "Dream Campaigns"
+  ],
+  "author": "Dream Campaigns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamcampaigns/encore/issues"
+  },
+  "homepage": "https://www.dreamcampaigns.com"
+}
