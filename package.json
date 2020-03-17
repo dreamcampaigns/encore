@@ -1,24 +1,24 @@
 {
-  "name": "dream_campaigns_encore",
+  "name": "managesend-encore",
   "version": "2.6.0",
-  "description": "Dream Campaigns Encore",
+  "description": "Managesend Encore",
   "main": "dist/encore.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dreamcampaigns/encore.git"
+    "url": "git+https://github.com/dreamcampaigns/managesend-encore.git"
   },
   "keywords": [
     "encore",
     "Dream Campaigns",
-    "dreamcampaigns"
+    "managesend"
   ],
   "author": "Dream Campaigns",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dreamcampaigns/encore/issues"
+    "url": "https://github.com/dreamcampaigns/managesend-encore/issues"
   },
-  "homepage": "https://github.com/dreamcampaigns/encore#readme"
+  "homepage": "https://github.com/dreamcampaigns/managesend-encore#readme"
 }
