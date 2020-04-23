@@ -1,6 +1,6 @@
 {
   "name": "managesend-encore",
-  "version": "2.6.4",
+  "version": "2.6.5",
   "description": "Managesend Encore",
   "main": "dist/encore.min.js",
   "scripts": {
