@@ -1,1 +1,1 @@
-VDS Encore
+DreamCampaigns SDK
